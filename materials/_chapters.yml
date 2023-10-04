@@ -1,5 +1,5 @@
 book:
   chapters:
-    - part: "Developer Guidelines"
+    - part: "Guidelines"
       chapters:
         - materials/00-template.md
